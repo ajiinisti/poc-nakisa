@@ -77,7 +77,7 @@ const MenuOption = ({options, setData, data, setVisibleChildren}) => {
         <div style={{ 
             padding: "10px"
          }}>
-            <h3>Moves Employee</h3>
+            <h3>Move Employee</h3>
             <p style={{  marginBottom: "0" }}>Employee</p>
             <Select
                 style={{ width: "100%" }}
